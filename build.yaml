@@ -15,9 +15,9 @@
 
 include:
   
-  - board: nice_nano_v2
+  - board: nice_nano
     shield: klor_left
-  - board: nice_nano_v2
+  - board: nice_nano  
     shield: klor_right
-  - board: nice_nano_v2
+  - board: nice_nano
     shield: settings_reset
